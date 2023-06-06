@@ -1,0 +1,5 @@
+topright_image;topleft_image;bottomright_image;bottomleft_image;audiofile
+images/target_41.png;images/discomp_41.png;images/competitor_41.png;images/distarget_41.png;sounds/linear_long_41.wav
+images/competitor_43.png;images/target_43.png;images/distarget_43.png;images/discomp_43.png;sounds/nested_short_43.wav
+images/distarget_42.png;images/competitor_42.png;images/discomp_42.png;images/target_42.png;sounds/nested_long_42.wav
+images/discomp_45.png;images/distarget_45.png;images/target_45.png;images/competitor_45.png;sounds/linear_short_45.wav
